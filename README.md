@@ -1,5 +1,5 @@
 # Привет! Добро пожаловать в мой Github ( • ᴗ - ) ✧
- Меня зовут Ипатова Дарья. Я — начинающий backend-разработчик. Мои навыки включают работу с Django, Laravel, Golang, ну и конечно же версткой (HTML, SASS, Vue.js, js) 
+ Меня зовут Ипатова Дарья. Я — начинающий веб-разработчик. Мои навыки включают работу с Django, Laravel, Golang, ну и конечно же версткой (HTML, SASS, Vue.js, js) 
 
  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=%237A86B8&labelColor=black) ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=Laravel)  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django&labelColor=%230C4B33) ![GO](https://img.shields.io/badge/Go-black?style=flat-square&logo=go) ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white) ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white&labelColor=black) ![Static Badge](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 
